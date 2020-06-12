@@ -1,0 +1,6 @@
+2020-06-12 09:04:23,231 INFO [test_login.py(test_login:30)] - 15811859004用户开始执行登录
+2020-06-12 09:04:23,693 INFO [test_login.py(test_login:32)] - 开始执行mp端登录结果断言
+2020-06-12 09:08:30,596 INFO [test_login.py(test_login:30)] - 15811859004用户开始执行登录
+2020-06-12 09:08:31,114 INFO [test_login.py(test_login:32)] - 开始执行mp端登录结果断言
+2020-06-12 09:13:19,792 INFO [test_login.py(test_login:30)] - 15811859004用户开始执行登录
+2020-06-12 09:13:20,426 INFO [test_login.py(test_login:32)] - 开始执行mp端登录结果断言
